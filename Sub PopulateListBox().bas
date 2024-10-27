@@ -120,7 +120,7 @@ Private Sub cmdClear_Click()
     Me.cmbGender.Value = ""
     Me.cmbGrade.Value = ""
     ' Clear other fields similarly
-End Sub
+End Sub    
 
 
 Private Sub UserForm_Initialize()
@@ -136,3 +136,4 @@ Private Sub UserForm_Initialize()
     ' Add more grades as needed
 End Sub
 
+' Test code create simple form 
